@@ -1,2 +1,2 @@
 # Recommendaiton-system
-Movie Recommendation System built using Python and Machine Learning, inspired by CampusX. Recommends similar movies based on movie content and similarity scores.
+Movie Recommendation System built using Python and Machine Learning. Recommends similar movies based on movie content and similarity scores.
