@@ -43,7 +43,7 @@ This project demonstrates the practical application of recommendation systems, d
 ```text
 campusx-movie-recommender-system/
 │
-├── notebooks/              # Jupyter notebooks, if organized separately
+├── data/              # Jupyter notebooks, if organized separately
 ├── app.py                  # Application entry point, if applicable
 ├── movie-recommender.ipynb  # Main project notebook
 ├── requirements.txt         # Project dependencies
